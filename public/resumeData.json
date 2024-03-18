@@ -1,0 +1,105 @@
+{
+  "main": {
+    "name": "Pavel Moskalenko",
+    "occupation": "ReactJS Developer",
+    "description": "Currently looking for a job",
+    "image": "pavel.jpg",
+    "bio": "My name is Pavel, I'm a frontend developer, an athlete at heart, with an entrepreneurial spirit and a passion for coding. I built my first website in 10th grade in school using html and css, but that wasn't enough for me so I studied different CMS's and stopped on WORDPRESS. Built a few projects while being in university. After graduation I was learning Java for building android apps, but soon I got back to my passion - building websites. For almost a year now, I've learned JavaScript, React, Git (and github) while repeating some basics of HTML and CSS. Still learning. Currently, I'm looking for a junior position at fine company. ",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "pavelmos0707@gmail.com",
+    "phone": "+380635291215",
+    "address": {
+      "city": "Ukraine, Kiev"
+    },
+    "website": "https://github.com/Pavlik07",
+    "resumedownload": "https://github.com/Pavlik07/resume",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Pavlik07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": " ",
+    "education": [
+      {
+        "school": "Ukrainian State University of Finance and International Trade",
+        "degree": "Bachelor in Computer Science and Specialist in Systems and methods of decision-making",
+        "graduated": "July 2014 / June 2015"
+      },
+      {
+        "school": "Kyiv National University of Trade and Economics",
+        "degree": "Master’s Degree in Information managing systems and technologies",
+        "graduated": "January 2017"
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "React",
+        "level": "80%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "English",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "65%"
+      },
+      {
+        "name": "Firebase",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "TINDER CLONE",
+        "category": "Built with ReactJS, HTML, CSS, Material-Ui, FireBase, ReactRouter",
+        "image": "tinder.jpg",
+        "url": "https://distracted-clarke-639e18.netlify.app"
+      },
+      {
+        "title": "NATURE TOURS website",
+        "category": "Built with HTML and CSS",
+        "image": "natureTours.jpg",
+        "url": "https://mystifying-wright-4be66e.netlify.app"
+      },
+      {
+        "title": "InstagramPage (my first REACT app)",
+        "category": "Built with ReactJS, CSS, HTML",
+        "image": "insta.jpg",
+        "url": "https://pedantic-williams-e72381.netlify.app"
+      },
+      {
+        "title": "AMAZON CLONE",
+        "category": "Built with ReactJS, REDUX, HTML, CSS, Material-Ui, FireBase, ReactRouter",
+        "image": "amazon.jpg",
+        "url": "https://lucid-joliot-36957c.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "user": "Martin Fowler"
+      }
+    ]
+  }
+}
